@@ -1,0 +1,708 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ID": 178871.0, "NOMBRE": "260181101- POZOS DE CIENTA ARNEDO" }, "geometry": { "type": "Point", "coordinates": [ 571742.44, 4673640.33 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "ID": 178872.0, "NOMBRE": "260181102- YASA MOROS I ARNEDO" }, "geometry": { "type": "Point", "coordinates": [ 573035.29, 4674105.15 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "ID": 178873.0, "NOMBRE": "260181103- YASA MOROS II ARNEDO" }, "geometry": { "type": "Point", "coordinates": [ 573220.21, 4674261.38 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "ID": 178874.0, "NOMBRE": "260201101- POZO EN SARTAGUDA PARA AUSEJO" }, "geometry": { "type": "Point", "coordinates": [ 577239.7, 4691056.94 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "ID": 178875.0, "NOMBRE": "260201102- CAPTACIÓN EN LAS RUEDAS DE OCÓN PARA AUSEJO" }, "geometry": { "type": "Point", "coordinates": [ 564584.13, 4682846.58 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "ID": 178876.0, "NOMBRE": "260201103- POZO DEL PEGO-AUSEJO" }, "geometry": { "type": "Point", "coordinates": [ 566894.99, 4689133.71 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "ID": 178877.0, "NOMBRE": "260021102-POZO DE RECAJO" }, "geometry": { "type": "Point", "coordinates": [ 554061.97, 4700085.29 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "ID": 178878.0, "NOMBRE": "260475101- ARROYO DEL MONCAYO VALVERDE" }, "geometry": { "type": "Point", "coordinates": [ 594893.98, 4644968.39 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "ID": 178879.0, "NOMBRE": "260475102- CAPTACIÓN TIERRA SANTA VALVERDE" }, "geometry": { "type": "Point", "coordinates": [ 594888.38, 4646484.34 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "ID": 178880.0, "NOMBRE": "260475103- CAPTACIÓN DE LA BALSA VALVERDE" }, "geometry": { "type": "Point", "coordinates": [ 594757.9, 4648668.18 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "ID": 178881.0, "NOMBRE": "260472101- CAPTACIÓN CONTREBIA-LEUKADE CERVERA DE RÍO ALHAMA" }, "geometry": { "type": "Point", "coordinates": [ 585017.83, 4647861.46 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "ID": 178882.0, "NOMBRE": "260472102- POZO EXTRAORDINARIO CERVERA DE RÍO ALHAMA" }, "geometry": { "type": "Point", "coordinates": [ 586388.43, 4650621.84 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "ID": 178883.0, "NOMBRE": "260473101- POZO 1 RINCÓN DE OLIVEDO" }, "geometry": { "type": "Point", "coordinates": [ 584906.5, 4656175.27 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "ID": 178884.0, "NOMBRE": "260473102- POZO 2 RINCÓN DE OLIVEDO" }, "geometry": { "type": "Point", "coordinates": [ 585313.31, 4656015.94 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "ID": 178885.0, "NOMBRE": "260476101- POZO VENTAS DEL BAÑO" }, "geometry": { "type": "Point", "coordinates": [ 590133.33, 4656279.29 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "ID": 178886.0, "NOMBRE": "260281101- CAPTACIÓN DE CARBONERA (BERGASA)" }, "geometry": { "type": "Point", "coordinates": [ 568089.24, 4679909.58 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "ID": 178887.0, "NOMBRE": "260281102- CAPTACIÓN BARRANCO ANGOSTO BERGASA" }, "geometry": { "type": "Point", "coordinates": [ 568980.77, 4679570.92 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "ID": 178888.0, "NOMBRE": "260281103- CAPTACIÓN DE LA BALSA BERGASA" }, "geometry": { "type": "Point", "coordinates": [ 570728.56, 4678936.63 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "ID": 178889.0, "NOMBRE": "260281104- CAPTACIÓN GALERÍA BERGASA" }, "geometry": { "type": "Point", "coordinates": [ 570343.2, 4678782.36 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "ID": 178890.0, "NOMBRE": "261581101- CAPTACIÓN 1 DE TUDELILLA (CARBONERA)" }, "geometry": { "type": "Point", "coordinates": [ 566708.21, 4681446.74 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "ID": 178891.0, "NOMBRE": "261581102- CAPTACIÓN 2 DE TUDELILLA (PASCUAL Y FRANCIA)" }, "geometry": { "type": "Point", "coordinates": [ 568805.86, 4682345.31 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "ID": 178892.0, "NOMBRE": "261581103- CAPTACIÓN DE LA BALSA TUDELILLA" }, "geometry": { "type": "Point", "coordinates": [ 570279.41, 4682640.37 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "ID": 178893.0, "NOMBRE": "261581104- CAPTACIÓN 4 DE TUDELILLA (POZO EXTRAORDINARIO)" }, "geometry": { "type": "Point", "coordinates": [ 570974.08, 4683034.59 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "ID": 178894.0, "NOMBRE": "260291101- CAPTACIÓN DE BERGASILLAS" }, "geometry": { "type": "Point", "coordinates": [ 568186.86, 4677153.54 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "ID": 178895.0, "NOMBRE": "261201101- POZO 1 QUEL" }, "geometry": { "type": "Point", "coordinates": [ 578042.9, 4674984.27 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "ID": 178896.0, "NOMBRE": "261201102- GALERÍA FILTRANTE QUEL" }, "geometry": { "type": "Point", "coordinates": [ 578123.42, 4674957.43 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "ID": 178897.0, "NOMBRE": "261201103- POZOS QUEL" }, "geometry": { "type": "Point", "coordinates": [ 578595.19, 4674650.81 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "ID": 178899.0, "NOMBRE": "261681101- CAPTACIÓN DE VILLAMEDIANA- ALBERITE (DESUSO)" }, "geometry": { "type": "Point", "coordinates": [ 542791.43, 4689121.48 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "ID": 178900.0, "NOMBRE": "260841101- CAPTACIÓN EN NALDA PARA LARDERO" }, "geometry": { "type": "Point", "coordinates": [ 541615.13, 4687568.16 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "ID": 178901.0, "NOMBRE": "260891101- CAPTACIÓN DE LOGROÑO" }, "geometry": { "type": "Point", "coordinates": [ 539418.75, 4685388.01 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "ID": 178902.0, "NOMBRE": "260051102- CAPTACIÓN EN RÍO IREGUA (ALBELDA DE RÍO ALHAMA)" }, "geometry": { "type": "Point", "coordinates": [ 538934.98, 4684731.03 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "ID": 178903.0, "NOMBRE": "260211101- POZO DEL CIDACOS AUTOL" }, "geometry": { "type": "Point", "coordinates": [ 580727.53, 4674345.54 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "ID": 178904.0, "NOMBRE": "260211102- YASA DEL SOTO AUTOL" }, "geometry": { "type": "Point", "coordinates": [ 580145.48, 4672017.0 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "ID": 178905.0, "NOMBRE": "260211103- MANANTIAL RAICILLAS II AUTOL" }, "geometry": { "type": "Point", "coordinates": [ 583011.28, 4673159.06 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "ID": 178906.0, "NOMBRE": "260211104- POZO DE LAS PISCINAS AUTOL" }, "geometry": { "type": "Point", "coordinates": [ 582459.88, 4674348.7 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "ID": 178907.0, "NOMBRE": "260721101- POZO DE CAPTACIÓN HERCE" }, "geometry": { "type": "Point", "coordinates": [ 569030.32, 4673750.36 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "ID": 178908.0, "NOMBRE": "260721102- POZO II HERCE" }, "geometry": { "type": "Point", "coordinates": [ 568624.5, 4674079.12 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "ID": 178909.0, "NOMBRE": "260721103- BARRANCO DE CAPTACIÓN HERCE" }, "geometry": { "type": "Point", "coordinates": [ 567695.4, 4674674.2 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "ID": 178910.0, "NOMBRE": "261231101- CAPTACIÓN SAN JULIÁN EL REDAL" }, "geometry": { "type": "Point", "coordinates": [ 565434.82, 4681653.08 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "ID": 178911.0, "NOMBRE": "261231102- CAPTACIÓN BARRANCO SAN JULIÁN EL REDAL" }, "geometry": { "type": "Point", "coordinates": [ 565613.63, 4681903.48 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "ID": 178912.0, "NOMBRE": "261082101- CAPTACIÓN DE LA VILLA DE OCÓN" }, "geometry": { "type": "Point", "coordinates": [ 562961.68, 4682016.24 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "ID": 178913.0, "NOMBRE": "260111101- POZO 1 ALFARO" }, "geometry": { "type": "Point", "coordinates": [ 605144.46, 4672331.93 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "ID": 178914.0, "NOMBRE": "260111102- POZO 2 ALFARO" }, "geometry": { "type": "Point", "coordinates": [ 604421.77, 4671953.45 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "ID": 178915.0, "NOMBRE": "261251101-POZO RINCON DE SOTO" }, "geometry": { "type": "Point", "coordinates": [ 594636.08, 4678111.96 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "ID": 178916.0, "NOMBRE": "260081101-POZO CASTILLEJOS DE ALDEANUEVA DE EBRO" }, "geometry": { "type": "Point", "coordinates": [ 592580.48, 4679629.6 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "ID": 178917.0, "NOMBRE": "261301101- CAPTACIÓN DE SAN MILLÁN DE LA COGOLLA" }, "geometry": { "type": "Point", "coordinates": [ 508031.06, 4682975.45 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "ID": 178918.0, "NOMBRE": "261241101- CAPTACIÓN 1 RIBAFRECHA (GABONCHOS)" }, "geometry": { "type": "Point", "coordinates": [ 548533.06, 4685041.94 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "ID": 178919.0, "NOMBRE": "261241102- CAPTACIÓN 2 RIBAFRECHA (PUENTE LAIDIEZ)" }, "geometry": { "type": "Point", "coordinates": [ 549835.26, 4687735.3 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "ID": 178920.0, "NOMBRE": "260021103- CAPTACIÓN EN RÍO LEZA (AGONCILLO PUEBLO)" }, "geometry": { "type": "Point", "coordinates": [ 556132.69, 4693587.4 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "ID": 178921.0, "NOMBRE": "260991101- CAPTACIÓN HABITUAL DE MURILLO DE RÍO LEZA" }, "geometry": { "type": "Point", "coordinates": [ 558458.47, 4689561.13 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "ID": 178922.0, "NOMBRE": "260991102- BALSA DE ALMACENAMIENTO DE MURILLO DE RÍO LEZA" }, "geometry": { "type": "Point", "coordinates": [ 556593.41, 4691684.65 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "ID": 178923.0, "NOMBRE": "260661101- POZO LOS AGUAZULES GALILEA" }, "geometry": { "type": "Point", "coordinates": [ 562876.43, 4687802.18 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "ID": 178924.0, "NOMBRE": "260661102- MANANTIAL LOS AGUAZULES GALILEA" }, "geometry": { "type": "Point", "coordinates": [ 562879.78, 4687785.99 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "ID": 178925.0, "NOMBRE": "260531101- POZO DE CORERA" }, "geometry": { "type": "Point", "coordinates": [ 565170.86, 4685748.15 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "ID": 178926.0, "NOMBRE": "260491101- CAPTACIÓN ESPADILLAS CIHURI" }, "geometry": { "type": "Point", "coordinates": [ 506987.8, 4711630.73 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "ID": 178927.0, "NOMBRE": "260491102- CAPTACIÓN PAULEJA (NO USADA) CIHURI" }, "geometry": { "type": "Point", "coordinates": [ 506516.91, 4711541.04 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "ID": 178928.0, "NOMBRE": "260491103- CAPTACIÓN EL SALITRE (NO USADA) CIHURI" }, "geometry": { "type": "Point", "coordinates": [ 506197.91, 4712702.82 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "ID": 178929.0, "NOMBRE": "261281101- CAPTACIÓN DE SAJAZARRA" }, "geometry": { "type": "Point", "coordinates": [ 506037.85, 4712191.87 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "ID": 178930.0, "NOMBRE": "260131101- CAPTACIÓN LAS MESAS ANGUCIANA" }, "geometry": { "type": "Point", "coordinates": [ 507701.05, 4712912.51 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "ID": 178931.0, "NOMBRE": "260131102- POZO SEMILLERO ANGUCIANA" }, "geometry": { "type": "Point", "coordinates": [ 507863.33, 4713308.06 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "ID": 178932.0, "NOMBRE": "260981101- CAPTACIÓN DE MUNILLA" }, "geometry": { "type": "Point", "coordinates": [ 556000.49, 4670185.9 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "ID": 178933.0, "NOMBRE": "260581101- POZO DE CAPTACIÓN ENCISO" }, "geometry": { "type": "Point", "coordinates": [ 560197.74, 4666426.83 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "ID": 178934.0, "NOMBRE": "260581102- CAPTACIÓN LA NEVERA ENCISO" }, "geometry": { "type": "Point", "coordinates": [ 556183.61, 4667322.64 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "ID": 178935.0, "NOMBRE": "260172101- CAPTACIÓN DE SANTA EULALIA SOMERA (ARNEDILLO)" }, "geometry": { "type": "Point", "coordinates": [ 564477.49, 4674685.42 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "ID": 178936.0, "NOMBRE": "260711101- POZO EL ESTRECHO HARO" }, "geometry": { "type": "Point", "coordinates": [ 509963.59, 4712440.05 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "ID": 178937.0, "NOMBRE": "260711102- GALERÍA FILTRANTE HARO" }, "geometry": { "type": "Point", "coordinates": [ 504154.97, 4705637.25 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "ID": 178938.0, "NOMBRE": "260711103- POZO FILTRANTE HARO" }, "geometry": { "type": "Point", "coordinates": [ 503602.8, 4704395.09 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "ID": 178939.0, "NOMBRE": "260421101- MANANTIAL AGUALINOS CASALARREINA" }, "geometry": { "type": "Point", "coordinates": [ 507118.7, 4708560.03 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "ID": 178940.0, "NOMBRE": "260421102- ARROYO AGUALINOS CASALARREINA" }, "geometry": { "type": "Point", "coordinates": [ 507042.0, 4708997.06 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "ID": 178941.0, "NOMBRE": "261421103- CAPTACIÓN 3 SAN VICENTE DE LA SONSIERRA (ARTICULANDIA)" }, "geometry": { "type": "Point", "coordinates": [ 521871.01, 4716780.22 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "ID": 178942.0, "NOMBRE": "261421101- CAPTACIÓN 1 SAN VICENTE DE LA SONSIERRA (NACEDERO 1)" }, "geometry": { "type": "Point", "coordinates": [ 521953.57, 4717449.1 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "ID": 178943.0, "NOMBRE": "261421102- CAPTACIÓN 2 SAN VICENTE DE LA SONSIERRA (NACEDERO 2)" }, "geometry": { "type": "Point", "coordinates": [ 521962.03, 4717278.42 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "ID": 178944.0, "NOMBRE": "261421104- CAPTACIÓN 4 SAN VICENTE DE LA SONSIERRA (ISUELA)" }, "geometry": { "type": "Point", "coordinates": [ 520905.33, 4717689.92 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "ID": 178945.0, "NOMBRE": "261421105- CAPTACIÓN 5 SAN VICENTE DE LA SONSIERRA (POZOS DEL EBRO)" }, "geometry": { "type": "Point", "coordinates": [ 519671.25, 4711843.67 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "ID": 178946.0, "NOMBRE": "261801101- CAPTACIÓN DE ZARRATÓN" }, "geometry": { "type": "Point", "coordinates": [ 501466.66, 4691308.39 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "ID": 178947.0, "NOMBRE": "260341101- MANANTIAL SALINILLAS PARA BRIÑAS" }, "geometry": { "type": "Point", "coordinates": [ 502099.28, 4692570.96 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "ID": 178948.0, "NOMBRE": "260871101- CAPTACIÓN PARA LEIVA, OCHÁNDURI Y HERRAMÉLLURI" }, "geometry": { "type": "Point", "coordinates": [ 502903.3, 4699082.1 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "ID": 178949.0, "NOMBRE": "261551101- CAPTACIÓN DE TREVIANA" }, "geometry": { "type": "Point", "coordinates": [ 492254.38, 4693761.6 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "ID": 178950.0, "NOMBRE": "261291101- CAPTACIÓN 1 DE SAN ASENSIO (VILLARRICA)" }, "geometry": { "type": "Point", "coordinates": [ 523528.76, 4703257.34 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "ID": 178951.0, "NOMBRE": "261291102- CAPTACIÓN 2 DE SAN ASENSIO (PONZUELOS)" }, "geometry": { "type": "Point", "coordinates": [ 520120.87, 4703455.46 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "ID": 178952.0, "NOMBRE": "260261101- CAPTACIÓN DEL CANAL BAÑOS DE RÍO TOBÍA" }, "geometry": { "type": "Point", "coordinates": [ 519341.36, 4686757.83 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "ID": 178953.0, "NOMBRE": "260261102- MANATIAL EN MATUTE BAÑOS DE RÍO TOBÍA" }, "geometry": { "type": "Point", "coordinates": [ 516974.49, 4683395.68 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "ID": 178954.0, "NOMBRE": "260311101- CAPTACIÓN DE BOBADILLA" }, "geometry": { "type": "Point", "coordinates": [ 516958.46, 4683386.57 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "ID": 178955.0, "NOMBRE": "260261103- CAPTACIÓN DEL CANAL BAÑOS DE RÍO TOBÍA" }, "geometry": { "type": "Point", "coordinates": [ 520086.5, 4686899.17 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "ID": 178956.0, "NOMBRE": "260591101- CAPTACIÓN LAS CELADAS ENCISO" }, "geometry": { "type": "Point", "coordinates": [ 539997.17, 4690809.66 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "ID": 178957.0, "NOMBRE": "260591102- CAPTACIÓN SAN SEBASTIÁN ENTRENA" }, "geometry": { "type": "Point", "coordinates": [ 540135.29, 4691167.04 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "ID": 178958.0, "NOMBRE": "260461101- CAPTACIÓN TRONCO NEGRO (EXTRAORDINARIO) CENICERO" }, "geometry": { "type": "Point", "coordinates": [ 526779.72, 4706049.94 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "ID": 178959.0, "NOMBRE": "260832101- CAPTACIÓN I JUBERA (LAGUNILLA DEL JUBERA)" }, "geometry": { "type": "Point", "coordinates": [ 558023.37, 4682739.12 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "ID": 178960.0, "NOMBRE": "260832102- CAPTACIÓN II JUBERA (LAGUNILLA DEL JUBERA)" }, "geometry": { "type": "Point", "coordinates": [ 557995.79, 4683379.07 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "ID": 178961.0, "NOMBRE": "261351101- CAPTACIÓN 1 DE JUBERA (SANTA ENGRACIA DE JUNERA)" }, "geometry": { "type": "Point", "coordinates": [ 558018.44, 4683350.92 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "ID": 178962.0, "NOMBRE": "261351102- CAPTACIÓN 2 DE JEBERA (SANTA ENGRACIA DEL JUBERA)" }, "geometry": { "type": "Point", "coordinates": [ 561220.11, 4681107.07 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "ID": 178963.0, "NOMBRE": "261271102- CAPTACIÓN 1 DE RODEZNO (LAS FUENTES)" }, "geometry": { "type": "Point", "coordinates": [ 512281.19, 4705898.39 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "ID": 178964.0, "NOMBRE": "261111102- CAPTACIÓN PROPIA PARA OLLAURI" }, "geometry": { "type": "Point", "coordinates": [ 513181.79, 4709813.07 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "ID": 178965.0, "NOMBRE": "260341102- CAPTACIÓN PROPIA PARA BRIONES" }, "geometry": { "type": "Point", "coordinates": [ 513179.28, 4709845.29 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "ID": 178966.0, "NOMBRE": "260561101- MANANTIAL CARRIZAL CUZCURRITA DE RÍO TIRÓN" }, "geometry": { "type": "Point", "coordinates": [ 503214.82, 4704201.9 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "ID": 178967.0, "NOMBRE": "260561102- POZO CUZCURRITA D ERÍO TIRÓN" }, "geometry": { "type": "Point", "coordinates": [ 503275.18, 4703867.42 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "ID": 178968.0, "NOMBRE": "261671101- MANANTIAL AGUALINOS VILLALOBAR" }, "geometry": { "type": "Point", "coordinates": [ 502926.93, 4702200.47 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "ID": 178969.0, "NOMBRE": "260431101- MANANTIAL DE LAS ABEJAS CASTAÑARES DE RIOJA" }, "geometry": { "type": "Point", "coordinates": [ 502773.98, 4701824.23 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "ID": 178970.0, "NOMBRE": "261501101- CAPTACIÓN 1 DE TORMANTOS" }, "geometry": { "type": "Point", "coordinates": [ 487705.87, 4703299.44 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "ID": 178971.0, "NOMBRE": "261501102- CAPTACIÓN 2 DE TORMANTOS" }, "geometry": { "type": "Point", "coordinates": [ 493540.69, 4704778.99 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "ID": 178972.0, "NOMBRE": "260831101- BARRANCO BALÍN LAGUNILLA DEL JUBERA" }, "geometry": { "type": "Point", "coordinates": [ 552229.79, 4683016.71 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "ID": 178973.0, "NOMBRE": "260191101- CAPTACIÓN VALDETOMÁS ARRUBAL" }, "geometry": { "type": "Point", "coordinates": [ 560375.81, 4692320.35 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "ID": 178974.0, "NOMBRE": "260191102- CAPTACIÓN VADENDORIA ARRUBAL" }, "geometry": { "type": "Point", "coordinates": [ 559577.78, 4692041.63 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "ID": 178975.0, "NOMBRE": "260891102- POZOS DEL EBRO EL CORTIJO (LOGROÑO)" }, "geometry": { "type": "Point", "coordinates": [ 539550.8, 4704648.28 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "ID": 178976.0, "NOMBRE": "261381101- CAPTACIÓN 1 DE SANTO DOMINGO DE LA CALZADA (PATA GALLINA)" }, "geometry": { "type": "Point", "coordinates": [ 502521.31, 4696425.75 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "ID": 178977.0, "NOMBRE": "261381102- CAPTACIÓN 2 DE SANTO DOMINGO DE LA CALZADA (POZOS DE SANTURDE)" }, "geometry": { "type": "Point", "coordinates": [ 502045.48, 4693483.24 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "ID": 178978.0, "NOMBRE": "260612101- CAPTACIÓN DEL RÍO OJA EZCARAY" }, "geometry": { "type": "Point", "coordinates": [ 497790.88, 4682545.89 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "ID": 178979.0, "NOMBRE": "260612102- CAPTACIÓN 2 DE EZCARAY" }, "geometry": { "type": "Point", "coordinates": [ 498622.06, 4684939.1 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "ID": 178980.0, "NOMBRE": "260621101- FUENTE DE ARRIBA PARA FONCEA" }, "geometry": { "type": "Point", "coordinates": [ 496685.95, 4718476.25 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "ID": 178981.0, "NOMBRE": "260631101- CAPTACIÓN DE CELLÓRIGO" }, "geometry": { "type": "Point", "coordinates": [ 498554.52, 4720174.75 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "ID": 178982.0, "NOMBRE": "260631102- CAPTACIÓN DE LA HOZ (FONCEA)" }, "geometry": { "type": "Point", "coordinates": [ 497788.74, 4719288.46 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "ID": 178983.0, "NOMBRE": "260011101-LA ROSA 1-ÁBALOS" }, "geometry": { "type": "Point", "coordinates": [ 524314.24, 4715561.33 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "ID": 178984.0, "NOMBRE": "260011102-LA ROSA 2-ÁBALOS" }, "geometry": { "type": "Point", "coordinates": [ 524379.35, 4715614.25 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "ID": 178985.0, "NOMBRE": "260331101- CAPTACIÓN DE BRIÑAS" }, "geometry": { "type": "Point", "coordinates": [ 514145.85, 4720193.91 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "ID": 178986.0, "NOMBRE": "261661101- CAPTACIÓN DE VILLALBA DE RIOJA" }, "geometry": { "type": "Point", "coordinates": [ 508928.53, 4719105.59 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "ID": 178987.0, "NOMBRE": "260511101- POZO DE LA BOMBA CLAVIJO" }, "geometry": { "type": "Point", "coordinates": [ 545481.32, 4685879.8 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "ID": 178988.0, "NOMBRE": "260511102- CAPTACIÓN CLAVIJO" }, "geometry": { "type": "Point", "coordinates": [ 545719.08, 4685955.76 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "ID": 178989.0, "NOMBRE": "260512101- FUENTE LOMBO LA UNIÓN (CLAVIJO)" }, "geometry": { "type": "Point", "coordinates": [ 547389.6, 4690224.61 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "ID": 178990.0, "NOMBRE": "260512102- MANANTIAL SANTA FE LA UNIÓN (CLAVIJO)" }, "geometry": { "type": "Point", "coordinates": [ 546019.96, 4689913.23 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "ID": 178991.0, "NOMBRE": "260512103-POZO FUENTE HIERRO LA UNIÓN (CLAVIJO)" }, "geometry": { "type": "Point", "coordinates": [ 547421.59, 4690659.48 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "ID": 178992.0, "NOMBRE": "260801101- CAPTACIÓN RÍO LINARES  IGEA" }, "geometry": { "type": "Point", "coordinates": [ 581536.38, 4658740.25 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "ID": 178993.0, "NOMBRE": "260801102- POZO RÍO LINARES IGEA" }, "geometry": { "type": "Point", "coordinates": [ 581897.23, 4658230.5 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "ID": 178994.0, "NOMBRE": "260801103- FUENTE MOROTA IGEA" }, "geometry": { "type": "Point", "coordinates": [ 578344.54, 4655078.52 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "ID": 178995.0, "NOMBRE": "260541101- BALSA DE CORNAGO" }, "geometry": { "type": "Point", "coordinates": [ 573316.72, 4655343.47 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "ID": 178996.0, "NOMBRE": "261401101- CAPTACIÓN DE SANTURDE" }, "geometry": { "type": "Point", "coordinates": [ 500745.68, 4690116.34 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "ID": 178997.0, "NOMBRE": "261411101- CAPTACIÓN DE SANTURDEJO" }, "geometry": { "type": "Point", "coordinates": [ 504335.4, 4689866.91 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "ID": 178998.0, "NOMBRE": "261101101- CAPTACIÓN LOS MOROS OJACASTRO" }, "geometry": { "type": "Point", "coordinates": [ 498581.36, 4688860.14 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "ID": 178999.0, "NOMBRE": "261101102- CAPTACIÓN LOS TRAPOS OJACASTRO" }, "geometry": { "type": "Point", "coordinates": [ 499181.34, 4687347.23 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "ID": 179000.0, "NOMBRE": "261051101- CAPTACIÓN EN MONCALVILLO DE NAVARRETE" }, "geometry": { "type": "Point", "coordinates": [ 531213.38, 4687815.31 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "ID": 179001.0, "NOMBRE": "261761101- CAPTACIÓN 1 DE VILLAVERDE DE RIOJA (PEDROSILLO)" }, "geometry": { "type": "Point", "coordinates": [ 512120.76, 4682342.51 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "ID": 179002.0, "NOMBRE": "261141101- CAPTACIÓN DE PEDROSO" }, "geometry": { "type": "Point", "coordinates": [ 524001.67, 4682973.99 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "ID": 179003.0, "NOMBRE": "261711101- CAPTACIÓN DE EL VILLAR DE TORRE (RÍO TUERTO)" }, "geometry": { "type": "Point", "coordinates": [ 509191.29, 4689313.74 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "ID": 179004.0, "NOMBRE": "260091102- CAPTACIÓN EXTRAORDINARIA ALESANCO" }, "geometry": { "type": "Point", "coordinates": [ 514684.29, 4695382.11 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "ID": 179005.0, "NOMBRE": "260401102- CAPTACIÓN PONZOS CAÑAS" }, "geometry": { "type": "Point", "coordinates": [ 510963.93, 4692372.49 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "ID": 179006.0, "NOMBRE": "261451101- CAPTACIÓN 1 DE SOTÉS" }, "geometry": { "type": "Point", "coordinates": [ 532443.06, 4687749.84 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "ID": 179007.0, "NOMBRE": "261191101- CAPTACIÓN 1 DE PRÉJANO" }, "geometry": { "type": "Point", "coordinates": [ 569415.09, 4668340.93 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "ID": 179008.0, "NOMBRE": "261191102- CAPTACIÓN 2 DE PRÉJANO" }, "geometry": { "type": "Point", "coordinates": [ 570296.85, 4670017.72 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "ID": 179009.0, "NOMBRE": "261191103- CAPTACIÓN 3 DE PRÉJANO" }, "geometry": { "type": "Point", "coordinates": [ 569876.14, 4669711.58 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "ID": 179010.0, "NOMBRE": "261191104- CAPTACIÓN 4 DE PRÉJANO" }, "geometry": { "type": "Point", "coordinates": [ 570354.36, 4670096.79 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "ID": 179011.0, "NOMBRE": "261191105- CAPTACIÓN 5 DE PRÉJANO" }, "geometry": { "type": "Point", "coordinates": [ 567316.79, 4669474.04 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "ID": 179012.0, "NOMBRE": "260471101- CAPTACIÓN DE CABRETÓN-VALDEGUTUR" }, "geometry": { "type": "Point", "coordinates": [ 590843.59, 4645869.38 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "ID": 179013.0, "NOMBRE": "260031101- CAPTACIÓN SAN FELICES I (AGUILAR DE RÍO ALHAMA)" }, "geometry": { "type": "Point", "coordinates": [ 580539.73, 4644714.15 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "ID": 179014.0, "NOMBRE": "260031102- CAPTACIÓN SAN FELICES II (AGUILAR DE RÍO ALHAMA)" }, "geometry": { "type": "Point", "coordinates": [ 580529.39, 4644800.42 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "ID": 179015.0, "NOMBRE": "260031103- CAPTACIÓN LOS PRADILLOS (AGUILAR DE RÍO ALHAMA)" }, "geometry": { "type": "Point", "coordinates": [ 580921.41, 4644816.46 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "ID": 179016.0, "NOMBRE": "260031104- POZO EXTRAORDINARIO (AGUILAR DE RÍO ALHAMA)" }, "geometry": { "type": "Point", "coordinates": [ 583204.97, 4646162.64 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "ID": 179017.0, "NOMBRE": "261771101- CAPTACIÓN 1 DE VILLOSLADA DE CAMEROS (LAS RAMERAS)" }, "geometry": { "type": "Point", "coordinates": [ 527359.15, 4657638.13 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "ID": 179018.0, "NOMBRE": "261771102- CAPTACIÓN 2 DE VILLOSLADA DE CAMEROS (ALAMOS BLANCOS)" }, "geometry": { "type": "Point", "coordinates": [ 526356.54, 4663787.76 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "ID": 179019.0, "NOMBRE": "261771103- CAPTACIÓN 3 DE VILLOSLADA DE CAMEROS (LA TEJA)" }, "geometry": { "type": "Point", "coordinates": [ 525783.14, 4664922.55 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "ID": 179020.0, "NOMBRE": "261771104- CAPTACIÓN 4 DE VILLOSLADA DE CAMEROS (LAS MORCUELAS)" }, "geometry": { "type": "Point", "coordinates": [ 525922.98, 4665042.53 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "ID": 179021.0, "NOMBRE": "260171101- CAPTACIÓN VADILLOS ARNEDILLO" }, "geometry": { "type": "Point", "coordinates": [ 561350.02, 4673417.69 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "ID": 179022.0, "NOMBRE": "260171102- POZO DEL CIDACOS ARNEDILLO" }, "geometry": { "type": "Point", "coordinates": [ 562152.94, 4672968.24 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "ID": 179023.0, "NOMBRE": "261361102- CAPTACIÓN 2 DE SANTA EULALIA BAJERA (POZO)" }, "geometry": { "type": "Point", "coordinates": [ 566581.14, 4673741.09 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "ID": 179024.0, "NOMBRE": "261361101- CAPTACIÓN 1 DE SANTA EULALIA BAJERA (BARRANCO CIRIJUELO)" }, "geometry": { "type": "Point", "coordinates": [ 566653.86, 4675050.5 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "ID": 179025.0, "NOMBRE": "261181101- CAPTACIÓN 1 DE PRADILLO" }, "geometry": { "type": "Point", "coordinates": [ 528631.92, 4669498.8 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "ID": 179026.0, "NOMBRE": "261181102- CAPTACIÓN 2 DE PRADILLO" }, "geometry": { "type": "Point", "coordinates": [ 529668.1, 4669268.54 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "ID": 179027.0, "NOMBRE": "261692101- CAPTACIÓN 1 DE VILLANUEVA DE CAMEROS (EL HOYO)" }, "geometry": { "type": "Point", "coordinates": [ 527777.31, 4667120.52 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "ID": 179028.0, "NOMBRE": "261692102- CAPTACIÓN 2 DE VILLANUEVA DE CAMEROS (POZO RÍO ALBERCOS)" }, "geometry": { "type": "Point", "coordinates": [ 528840.2, 4668369.53 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "ID": 179029.0, "NOMBRE": "261121101- CAPTACIÓN EL ORILLAR ORTIGOSA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 525164.55, 4666319.98 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "ID": 179030.0, "NOMBRE": "261121102- CAPTACIÓN ARCAS DE PELAYO ORTIGOSA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 524816.58, 4666891.64 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "ID": 179031.0, "NOMBRE": "261121103- CAPTACIÓN LOS CLÉRIGOS ORTIGOSA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 523545.9, 4667419.04 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "ID": 179032.0, "NOMBRE": "261121104- CAPTACIÓN SANTA TEODOSIA ORTIGOSA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 523525.85, 4670307.24 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "ID": 179033.0, "NOMBRE": "261051102- CAPTACIÓN DEL IREGUS PARA NAVARRETE-FUENMAYOR" }, "geometry": { "type": "Point", "coordinates": [ 539342.38, 4685328.71 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "ID": 179034.0, "NOMBRE": "261321101- CAPTACIÓN 1 DE SAN ROMÁN DE CAMEROS (SANTA MARÍA)" }, "geometry": { "type": "Point", "coordinates": [ 541621.13, 4677537.02 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "ID": 179035.0, "NOMBRE": "261321102- CAPTACIÓN 2 SAN ROMÁN DE CAMEROS (RAYUELA)" }, "geometry": { "type": "Point", "coordinates": [ 543324.33, 4678344.53 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "ID": 179036.0, "NOMBRE": "261221101- CAPTACIÓN 1 DE EL RASILLO (BACARIZAS)" }, "geometry": { "type": "Point", "coordinates": [ 521570.36, 4670795.4 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "ID": 179037.0, "NOMBRE": "261221102- CAPTACIÓN 2 DE EL RASILLO (CERRAUCO)" }, "geometry": { "type": "Point", "coordinates": [ 520742.2, 4670781.89 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "ID": 179038.0, "NOMBRE": "261221103- CAPTACIÓN 3 DE EL RASILLO (LA HONDA)" }, "geometry": { "type": "Point", "coordinates": [ 523399.5, 4671577.2 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "ID": 179039.0, "NOMBRE": "261221104- CAPTACIÓN 4 DE EL RASILLO (RÍO AGENZANA)" }, "geometry": { "type": "Point", "coordinates": [ 523136.84, 4672405.68 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "ID": 179040.0, "NOMBRE": "261511101- CAPTACIÓN DE TORRECILLA EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 528664.42, 4678593.06 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "ID": 179041.0, "NOMBRE": "261021101- LA CHOPERA NÁJERA" }, "geometry": { "type": "Point", "coordinates": [ 521857.11, 4695604.64 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "ID": 179042.0, "NOMBRE": "261021102- PUENTE DE LOS SOLDADOS NÁJERA" }, "geometry": { "type": "Point", "coordinates": [ 521892.89, 4695718.34 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "ID": 179043.0, "NOMBRE": "261021103- POZO SALA DE MÁQUINAS" }, "geometry": { "type": "Point", "coordinates": [ 521866.67, 4695780.84 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "ID": 179044.0, "NOMBRE": "260791101- CAPTACIÓN DEL CANAL (DESUSO) HUÉRCANOS" }, "geometry": { "type": "Point", "coordinates": [ 525621.18, 4697356.97 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "ID": 179045.0, "NOMBRE": "260521101- CANAL DEL NAJERILLA PARA CORDOVÍN" }, "geometry": { "type": "Point", "coordinates": [ 515791.09, 4692267.19 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "ID": 179046.0, "NOMBRE": "261601101- CAPTACIÓN FUENTE EDESA DE URUÑUELA (DESUSO)" }, "geometry": { "type": "Point", "coordinates": [ 523657.0, 4700011.57 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "ID": 179047.0, "NOMBRE": "261601102- CAPTACIÓN RIVAS CAÍDAS DE URUÑUELA (DESUSO)" }, "geometry": { "type": "Point", "coordinates": [ 524188.89, 4694062.51 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "ID": 179048.0, "NOMBRE": "261571101- CAPTACIÓN DE TRICIO (RIVAS CAÍDAS)" }, "geometry": { "type": "Point", "coordinates": [ 524220.65, 4694050.39 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "ID": 179049.0, "NOMBRE": "260751101- CAPTACIÓN DEL CANAL HORMILLA" }, "geometry": { "type": "Point", "coordinates": [ 518220.92, 4700179.62 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "ID": 179050.0, "NOMBRE": "260751102- CAPTACIÓN DE LA BALSA HORMILLA" }, "geometry": { "type": "Point", "coordinates": [ 518594.55, 4701015.43 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "ID": 179051.0, "NOMBRE": "260761101- POZO (EXTRAORDINARIO) HORMILLEJA" }, "geometry": { "type": "Point", "coordinates": [ 522326.67, 4700192.28 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "ID": 179052.0, "NOMBRE": "260691101- CAPTACIÓN CARABALLO GRAÑÓN" }, "geometry": { "type": "Point", "coordinates": [ 498590.23, 4694968.03 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "ID": 179053.0, "NOMBRE": "260691102- BALSA (DESUSO) GRAÑÓN" }, "geometry": { "type": "Point", "coordinates": [ 498143.56, 4696609.5 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "ID": 179054.0, "NOMBRE": "260691103- MANANTIAL LA TEJA GRAÑÓN" }, "geometry": { "type": "Point", "coordinates": [ 497260.67, 4697695.02 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "ID": 179055.0, "NOMBRE": "260231101- CAPTACIÓN EL CHARCÓN BADARÁN" }, "geometry": { "type": "Point", "coordinates": [ 513313.11, 4688230.41 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "ID": 179056.0, "NOMBRE": "260371101- CAPTACIÓN REMOJAPAN CAMPROVÍN" }, "geometry": { "type": "Point", "coordinates": [ 524962.84, 4688093.71 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "ID": 179057.0, "NOMBRE": "260371102- CAPTACIÓN FUENTE LLAMÉ CAMPROVÍN" }, "geometry": { "type": "Point", "coordinates": [ 524569.6, 4688210.23 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "ID": 179058.0, "NOMBRE": "260371103- CAPTACIÓN DE LA BALSA CAMPROVÍN" }, "geometry": { "type": "Point", "coordinates": [ 524219.59, 4688361.75 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "ID": 179059.0, "NOMBRE": "260141101- FUENTE TOMÉ ANGUIANO" }, "geometry": { "type": "Point", "coordinates": [ 519417.68, 4676870.23 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "ID": 179060.0, "NOMBRE": "260141102- FUENTE DEL MOLINO ANGUIANO" }, "geometry": { "type": "Point", "coordinates": [ 519238.47, 4678517.65 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "ID": 179061.0, "NOMBRE": "260141103- FUENTE DE LA ERMITA ANGUIANO" }, "geometry": { "type": "Point", "coordinates": [ 520105.81, 4677624.44 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "ID": 179062.0, "NOMBRE": "261641101- CAPTACIÓN 1 DE VENTROSA (LAS FUENTES)" }, "geometry": { "type": "Point", "coordinates": [ 512229.44, 4666480.94 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "ID": 179063.0, "NOMBRE": "261641102- CAPTACIÓN 2 DE VENTROSA (EL MANADERO)" }, "geometry": { "type": "Point", "coordinates": [ 512845.76, 4667008.9 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "ID": 179064.0, "NOMBRE": "260951101- CAPTACIÓN CHICURRA DE MATUTE" }, "geometry": { "type": "Point", "coordinates": [ 512027.48, 4680489.46 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "ID": 179065.0, "NOMBRE": "260411101- CAPTACIÓN DE CÁRDENAS" }, "geometry": { "type": "Point", "coordinates": [ 514896.31, 4689533.99 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "ID": 179066.0, "NOMBRE": "260151101- MANANTIAL (EXTRAORDINARIO) ARENZANA DE ABAJO" }, "geometry": { "type": "Point", "coordinates": [ 523889.27, 4692847.81 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "ID": 179067.0, "NOMBRE": "260151102- POZO (EXTRAORDINARIO) ARENZANA DE ABAJO" }, "geometry": { "type": "Point", "coordinates": [ 521910.71, 4693066.93 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "ID": 179068.0, "NOMBRE": "261461101- CAPTACIÓN 1 DE SOTO EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 547670.16, 4680800.12 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "ID": 179069.0, "NOMBRE": "261461102- CAPTACIÓN 2 SOTO EN CAMEROS (BABILÉS)" }, "geometry": { "type": "Point", "coordinates": [ 547436.74, 4681135.79 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "ID": 179070.0, "NOMBRE": "261461103- CAPTACIÓN 3 SOTO EN CAMEROS (POZO EL MATAITO)" }, "geometry": { "type": "Point", "coordinates": [ 547295.35, 4681571.68 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "ID": 179071.0, "NOMBRE": "261461104- CAPTACIÓN 4 SOTO EN CAMEROS (CAZME)" }, "geometry": { "type": "Point", "coordinates": [ 548237.04, 4681075.35 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "ID": 179072.0, "NOMBRE": "261461105- CAPTACIÓN 5 SOTO EN CAMEROS (REGUEROS)" }, "geometry": { "type": "Point", "coordinates": [ 548749.62, 4681164.92 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "ID": 179073.0, "NOMBRE": "261621101- CAPTACIÓN 1 DE VALGAÑÓN (LOS CANALONES)" }, "geometry": { "type": "Point", "coordinates": [ 495381.72, 4683747.23 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "ID": 179074.0, "NOMBRE": "260381101- CAPTACIÓN SAN JORGE CANALES DE LA SIERRA" }, "geometry": { "type": "Point", "coordinates": [ 495729.23, 4666940.92 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "ID": 179075.0, "NOMBRE": "261781101- CAPTACIÓN 1 DE VINIEGRA DE ABAJO (RÍO)" }, "geometry": { "type": "Point", "coordinates": [ 509540.1, 4664219.42 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "ID": 179076.0, "NOMBRE": "261781102- CAPTACIÓN 2 DE VINIEGRA DE ABAJO (ARROYO CIRUELOS)" }, "geometry": { "type": "Point", "coordinates": [ 509372.7, 4664390.66 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "ID": 179077.0, "NOMBRE": "261031101- CAPTACIÓN DE NALDA" }, "geometry": { "type": "Point", "coordinates": [ 539946.35, 4685812.32 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "ID": 179078.0, "NOMBRE": "261032101-CAPTACIÓN DE ISLALLANA (NALDA)" }, "geometry": { "type": "Point", "coordinates": [ 534495.41, 4681636.96 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "ID": 179079.0, "NOMBRE": "260911101- CAPTACIÓN I DE LUMBREARAS" }, "geometry": { "type": "Point", "coordinates": [ 532687.73, 4655538.46 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "ID": 179080.0, "NOMBRE": "260911102- CAPTACIÓN II DE LUMBRERAS" }, "geometry": { "type": "Point", "coordinates": [ 530732.99, 4660262.04 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "ID": 179081.0, "NOMBRE": "260821101- CAPTACIÓN I LAGUNA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 534471.94, 4667973.74 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "ID": 179082.0, "NOMBRE": "260821102- CAPTACIÓN RINGO RANGO LAGUNA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 535795.77, 4666344.72 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "ID": 179083.0, "NOMBRE": "260821103- FUENTE DE LOS ESTUDIANTES LAGUNA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 537732.12, 4668996.42 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "ID": 179084.0, "NOMBRE": "261711102- CAPTACIÓN MANCOMUNIDAD DE LA ESPERANZA" }, "geometry": { "type": "Point", "coordinates": [ 497336.7, 4680361.04 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "ID": 179085.0, "NOMBRE": "260601101- CAPTACIÓN CANTALGALLO ESTOLLO" }, "geometry": { "type": "Point", "coordinates": [ 511815.72, 4684612.91 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "ID": 179086.0, "NOMBRE": "261652101- CAPTACIÓN 1 DE VIGUERA (BARRANCO URRILLA)" }, "geometry": { "type": "Point", "coordinates": [ 535167.05, 4684991.77 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "ID": 179087.0, "NOMBRE": "261652102- CAPTACIÓN 2 DE VIGUERA (URRILLA 2)" }, "geometry": { "type": "Point", "coordinates": [ 534869.59, 4685216.44 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "ID": 179088.0, "NOMBRE": "261441101- CAPTACIÓN 1 SORZANO (LOS LLANOS)" }, "geometry": { "type": "Point", "coordinates": [ 535632.36, 4687274.29 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "ID": 179089.0, "NOMBRE": "261441102- CAPTACIÓN 2 SORZANO (RÍO DEL MONTE)" }, "geometry": { "type": "Point", "coordinates": [ 537235.71, 4687549.12 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "ID": 179090.0, "NOMBRE": "261441103- CAPTACIÓN 3 SORZANO (EL LOMO)" }, "geometry": { "type": "Point", "coordinates": [ 538248.95, 4687583.43 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "ID": 179091.0, "NOMBRE": "260091101- CAPTACIÓN DE LA MANCOMUNIDAD DE LAS 5 VILLAS" }, "geometry": { "type": "Point", "coordinates": [ 509187.49, 4682620.77 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "ID": 179092.0, "NOMBRE": "260921101- CAPTACIÓN I DE MANJARRÉS" }, "geometry": { "type": "Point", "coordinates": [ 527180.2, 4692573.75 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "ID": 179093.0, "NOMBRE": "260921102- CAPTACIÓN II DE MANJARRÉS" }, "geometry": { "type": "Point", "coordinates": [ 527695.49, 4692427.23 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "ID": 179094.0, "NOMBRE": "260921103- CAPTACIÓN III DE MANJARRÉS" }, "geometry": { "type": "Point", "coordinates": [ 527648.23, 4692332.96 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "ID": 179095.0, "NOMBRE": "260101101- CAPTACIÓN EL SOTO EXTRAORDINARIA MANJARRÉS" }, "geometry": { "type": "Point", "coordinates": [ 527745.83, 4692261.19 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "ID": 179096.0, "NOMBRE": "260921104- CAPTACIÓN IV DE MANJARRÉS" }, "geometry": { "type": "Point", "coordinates": [ 527998.9, 4692366.37 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "ID": 179097.0, "NOMBRE": "260941101- CAPTACIÓN LA ESTACADA DE MANZANARES DE RIOJA" }, "geometry": { "type": "Point", "coordinates": [ 507647.43, 4691215.15 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "ID": 179098.0, "NOMBRE": "260521102- FUENTE ESPINO CORDOVÍN" }, "geometry": { "type": "Point", "coordinates": [ 512902.87, 4690003.01 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "ID": 179099.0, "NOMBRE": "260701102- POZO DE CAPTACIÓN GRÁVALOS" }, "geometry": { "type": "Point", "coordinates": [ 582396.98, 4662615.41 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "ID": 179100.0, "NOMBRE": "260701101- POZO HOYAMEDIANA GRÁVALOS" }, "geometry": { "type": "Point", "coordinates": [ 580036.64, 4664387.87 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "ID": 179101.0, "NOMBRE": "261341101- EL NACEDERO PARA SANTA COLOMA" }, "geometry": { "type": "Point", "coordinates": [ 528553.09, 4688810.68 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "ID": 179102.0, "NOMBRE": "261341102- CAPTACIÓN DE SANTA COLOMA (LOS NACEDEROS)" }, "geometry": { "type": "Point", "coordinates": [ 529227.03, 4689401.73 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "ID": 179103.0, "NOMBRE": "260101102- CAPTACIÓN PARA EL POLÍGONO ALESÓN" }, "geometry": { "type": "Point", "coordinates": [ 525455.69, 4694375.92 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "ID": 179104.0, "NOMBRE": "260101103- CAPTACIÓN EXTRAORDINARIA (POZO) ALESÓN" }, "geometry": { "type": "Point", "coordinates": [ 525764.33, 4694049.48 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "ID": 179105.0, "NOMBRE": "261701101- CAPTACIÓN 1 DE EL VILLAR DE ARNEDO (GARGANTILLA)" }, "geometry": { "type": "Point", "coordinates": [ 572652.22, 4685644.91 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "ID": 179106.0, "NOMBRE": "261701102- CAPTACIÓN 2 DE EL VILLAR DE ARNEDO (AGUADILLA)" }, "geometry": { "type": "Point", "coordinates": [ 574000.05, 4684677.32 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "ID": 179107.0, "NOMBRE": "261701103- CAPTACIÓN 3 DE EL VILLAR DE TORRE (POZO MATADERO)" }, "geometry": { "type": "Point", "coordinates": [ 574443.38, 4685509.66 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "ID": 179108.0, "NOMBRE": "261171101- POZOS DEL EBRO PRADEJÓN" }, "geometry": { "type": "Point", "coordinates": [ 579693.18, 4690157.41 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "ID": 179109.0, "NOMBRE": "260361101- POZOS DEL EBRO- CALAHORRA" }, "geometry": { "type": "Point", "coordinates": [ 586004.63, 4686561.44 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "ID": 179110.0, "NOMBRE": "260361102- POZOS TEJERÍAS PARA POLÍGONO DE CALAHORRA" }, "geometry": { "type": "Point", "coordinates": [ 586399.92, 4682993.47 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "ID": 179111.0, "NOMBRE": "260071101- POZO EN ALCANADRE" }, "geometry": { "type": "Point", "coordinates": [ 572111.78, 4695769.49 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "ID": 179112.0, "NOMBRE": "260021101-DEL EBRO-AGONCILLO" }, "geometry": { "type": "Point", "coordinates": [ 559749.34, 4699387.26 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "ID": 179113.0, "NOMBRE": "261291103- CAPTACIÓN 3 SAN ASENSIO (CAMPILLO)" }, "geometry": { "type": "Point", "coordinates": [ 520153.43, 4704459.61 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "ID": 179114.0, "NOMBRE": "260051101- CAPTACIÓN ANTIGÜA (ALBELDA DE RÍO IREGUA)" }, "geometry": { "type": "Point", "coordinates": [ 544050.86, 4689276.34 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "ID": 179115.0, "NOMBRE": "261621102- CAPTACIÓN 2 DE VALGAÑÓN (IBAIA)" }, "geometry": { "type": "Point", "coordinates": [ 494102.15, 4682633.65 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "ID": 179116.0, "NOMBRE": "261271103- CAPTACIÓN 2 DE RODEZNO (LA ERMITA)" }, "geometry": { "type": "Point", "coordinates": [ 512508.01, 4706888.21 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "ID": 179117.0, "NOMBRE": "261041101- CAPTACIÓN DE NAVAJÚN" }, "geometry": { "type": "Point", "coordinates": [ 574130.35, 4646750.08 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "ID": 179118.0, "NOMBRE": "261611101- CAPTACIÓN 1 DE VALDEMADERA" }, "geometry": { "type": "Point", "coordinates": [ 574326.02, 4649948.25 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "ID": 179119.0, "NOMBRE": "261611102- CAPTACIÓN 2 DE VALDEMADERA" }, "geometry": { "type": "Point", "coordinates": [ 574843.53, 4649272.42 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "ID": 179120.0, "NOMBRE": "260651101- CAPTACIÓN SANTA OLALLA GALBÁRRULI" }, "geometry": { "type": "Point", "coordinates": [ 503066.88, 4720504.17 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "ID": 179121.0, "NOMBRE": "260651102- CAPTACIÓN MARIALBA GALBÁRRULI" }, "geometry": { "type": "Point", "coordinates": [ 503764.77, 4718924.28 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "ID": 179122.0, "NOMBRE": "260651103- POZO SAN BLAS GALBÁRRULI" }, "geometry": { "type": "Point", "coordinates": [ 504528.13, 4719507.65 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "ID": 179123.0, "NOMBRE": "260651104- POZO SAN BLAS II GALBÁRRULI" }, "geometry": { "type": "Point", "coordinates": [ 504327.48, 4719702.27 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "ID": 179124.0, "NOMBRE": "260651105- POZO EL VALLE GALBÁRRULI" }, "geometry": { "type": "Point", "coordinates": [ 503473.85, 4719315.05 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "ID": 179125.0, "NOMBRE": "260651106- CAPTACIÓN LAS SUERTES GALBÁRRULI" }, "geometry": { "type": "Point", "coordinates": [ 503300.33, 4719015.66 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "ID": 179126.0, "NOMBRE": "261422101- CAPTACIÓN 1 DE RIVAS DE TEREO (SAN VICENTE DE LA SONSIERRA)" }, "geometry": { "type": "Point", "coordinates": [ 519212.62, 4717159.97 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "ID": 179127.0, "NOMBRE": "261422102- CAPTACIÓN 2 DE RIVAS DE TERESO (SAN VICENTE DE LA SONSIERRA)" }, "geometry": { "type": "Point", "coordinates": [ 520837.86, 4718245.83 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "ID": 179128.0, "NOMBRE": "261423101- CAPTACIÓN 1 DE PECIÑA (SAN VICENTE DE LA SONSIERRA)" }, "geometry": { "type": "Point", "coordinates": [ 523336.7, 4715412.05 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "ID": 179129.0, "NOMBRE": "261423102- CAPTACIÓN 2 DE PECIÑA (SAN VICENTE DE LA SONSIERRA)" }, "geometry": { "type": "Point", "coordinates": [ 523224.16, 4715273.82 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "ID": 179130.0, "NOMBRE": "260451101- CAPTACIÓN DE CELLÓRIGO (FUENTE VIEJA)" }, "geometry": { "type": "Point", "coordinates": [ 499784.55, 4719755.11 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "ID": 179131.0, "NOMBRE": "260652101- CAPTACIÓN EL PLANTÍO CASTILSECO (GALBÁRRULI)" }, "geometry": { "type": "Point", "coordinates": [ 503419.95, 4717516.68 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "ID": 179132.0, "NOMBRE": "260502101- CAPTACIÓN DEL PANTANO CIRUEÑA" }, "geometry": { "type": "Point", "coordinates": [ 508493.97, 4692586.57 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "ID": 179133.0, "NOMBRE": "260502102- CAPTACIÓN EL RETURO CIRUEÑA" }, "geometry": { "type": "Point", "coordinates": [ 507382.01, 4693487.55 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "ID": 179134.0, "NOMBRE": "260502103- CAPTACIÓN PRADO CONCEJO CIRUEÑA" }, "geometry": { "type": "Point", "coordinates": [ 507965.32, 4693729.44 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "ID": 179135.0, "NOMBRE": "260502104- CAPTACIÓN LA GRAVERA CIRUEÑA" }, "geometry": { "type": "Point", "coordinates": [ 508198.57, 4695903.63 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "ID": 179136.0, "NOMBRE": "260501101- CAPTACIÓN DEL CURA CIRIÑUELA" }, "geometry": { "type": "Point", "coordinates": [ 508124.67, 4695027.89 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "ID": 179137.0, "NOMBRE": "261082101- CAPTACIÓN DE LA VILLA DE OCÓN" }, "geometry": { "type": "Point", "coordinates": [ 565035.26, 4682204.45 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "ID": 179138.0, "NOMBRE": "261083101- CAPTACIÓN DE LOS MOLINOS DE OCÓN" }, "geometry": { "type": "Point", "coordinates": [ 563726.61, 4682362.18 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "ID": 179139.0, "NOMBRE": "260041101- CAPTACIÓN LAS SUDANTES I (AJAMIL)" }, "geometry": { "type": "Point", "coordinates": [ 543570.68, 4666491.33 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "ID": 179140.0, "NOMBRE": "261211101- CAPTACIÓN DE RABANERA Y VADILLOS" }, "geometry": { "type": "Point", "coordinates": [ 545066.17, 4668162.49 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "ID": 179141.0, "NOMBRE": "260071101- MANANTIAL EL NACEDERO (ALCANADRE)" }, "geometry": { "type": "Point", "coordinates": [ 534708.09, 4674736.08 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "ID": 179142.0, "NOMBRE": "260071102- MANANTIAL FUENTE LAYA (ALCANADRE)" }, "geometry": { "type": "Point", "coordinates": [ 534550.0, 4673950.11 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "ID": 179143.0, "NOMBRE": "261151101- CAPTACIÓN 1 DE PEDROSO" }, "geometry": { "type": "Point", "coordinates": [ 534464.15, 4669138.1 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "ID": 179144.0, "NOMBRE": "261151102- CAPTACIÓN 2 DE PEDROSO" }, "geometry": { "type": "Point", "coordinates": [ 534621.25, 4669553.88 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "ID": 179145.0, "NOMBRE": "261151103- CAPTACIÓN 3 DE PEDROSO" }, "geometry": { "type": "Point", "coordinates": [ 534733.28, 4670404.04 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "ID": 179146.0, "NOMBRE": "261151104- CAPTACIÓN 4 DE PEDROSO" }, "geometry": { "type": "Point", "coordinates": [ 534727.33, 4670724.01 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "ID": 179147.0, "NOMBRE": "261122101- CAPTACIÓN 1 DE PEÑALOSCINTOS (ORTIGOSA DE CAMEROS)" }, "geometry": { "type": "Point", "coordinates": [ 526105.76, 4667016.52 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "ID": 179148.0, "NOMBRE": "261122102-CAPTACIÓN 2 DE PEÑALOSCINTOS (ORTIGOSA DE CAMEROS)" }, "geometry": { "type": "Point", "coordinates": [ 525510.03, 4667623.81 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "ID": 179149.0, "NOMBRE": "261471101- CAPTACIÓN DE TERROBA" }, "geometry": { "type": "Point", "coordinates": [ 547335.3, 4677493.81 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "ID": 179150.0, "NOMBRE": "261352101- CAPTACIÓN 1 DE SANTA ENGRACIA DEL JUBERA" }, "geometry": { "type": "Point", "coordinates": [ 557110.82, 4685427.81 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "ID": 179151.0, "NOMBRE": "261352102- CAPTACIÓN 2 DE SANTA ENGRACIA DEL JUBERA" }, "geometry": { "type": "Point", "coordinates": [ 555195.73, 4684208.3 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "ID": 179152.0, "NOMBRE": "261353101- CAPTACIÓN DE SAN BARTOLOMÉ (SANTA ENGRACIA DLE JUBERA)" }, "geometry": { "type": "Point", "coordinates": [ 557167.25, 4684761.97 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "ID": 179153.0, "NOMBRE": "261072104- CAPTACIÓN FUENTE EL RASILLO NIEVA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 526004.83, 4672478.67 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "ID": 179154.0, "NOMBRE": "261072105- CAPTACIÓN RÍO LA TOMA NIEVA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 524149.77, 4672948.73 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "ID": 179155.0, "NOMBRE": "261071101- CAPTACIÓN OYANCO DE NIEVA EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 526687.04, 4671590.6 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "ID": 179156.0, "NOMBRE": "261071102- CAPTACIÓN DE OYANCO DE ABAJO DE NIEVA EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 526993.82, 4672074.78 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "ID": 179157.0, "NOMBRE": "261751101- CAPTACIÓN DE VILLAVELAYO (RODAJO 1)" }, "geometry": { "type": "Point", "coordinates": [ 499863.43, 4664198.65 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "ID": 179158.0, "NOMBRE": "260321101- CAPTACIÓN EL NACEDERO BRIEVA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 517286.48, 4667174.89 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "ID": 179159.0, "NOMBRE": "260912101- CAPTACIÓN SOLANILLA DE SAN ANDRÉS (LUMBRERAS)" }, "geometry": { "type": "Point", "coordinates": [ 534363.38, 4659164.56 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "ID": 179160.0, "NOMBRE": "260912102- CAPTACIÓN LA PINILLA DE SAN ANDRÉS (LUMBRERAS)" }, "geometry": { "type": "Point", "coordinates": [ 534526.94, 4659066.14 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "ID": 179161.0, "NOMBRE": "260912103- CAPTACIÓN DEL RÍO PIQUERAS DE SAN ANDRÉS (LUMBRERAS)" }, "geometry": { "type": "Point", "coordinates": [ 537744.54, 4658521.86 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "ID": 179162.0, "NOMBRE": "261462101- CAPTACIÓN 1 DE TREVIJANO (SOTO EN CAMEROS)" }, "geometry": { "type": "Point", "coordinates": [ 546141.31, 4683471.86 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "ID": 179163.0, "NOMBRE": "261462102- CAPTACIÓN 2 DE TREVIJANO (SOTO EN CAMEROS)" }, "geometry": { "type": "Point", "coordinates": [ 546042.01, 4682916.21 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "ID": 179164.0, "NOMBRE": "261462103- CAPTACIÓN 3 DE TREVIJANO (SOTO EN CAMEROS)" }, "geometry": { "type": "Point", "coordinates": [ 546327.03, 4683808.77 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "ID": 179165.0, "NOMBRE": "261086101- CAPTACIÓN ALTANALES DE SANTA LUCÍA DE OCÓN" }, "geometry": { "type": "Point", "coordinates": [ 560669.02, 4682962.3 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "ID": 179166.0, "NOMBRE": "261086102- CAPTACIÓN MARMEDÍN DE SANTA LUCÍA DE OCÓN" }, "geometry": { "type": "Point", "coordinates": [ 561450.17, 4682264.94 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "ID": 179167.0, "NOMBRE": "261086103- CAPTACIÓN EL LAVADERO DE SANTA LUCÍA DE OCÓN" }, "geometry": { "type": "Point", "coordinates": [ 560531.29, 4684582.7 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "ID": 179168.0, "NOMBRE": "261011101- CAPTACIÓN LANILLO DE MURO EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 536763.14, 4675465.32 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "ID": 179169.0, "NOMBRE": "260771101- CAPTACIÓN SAN FELICES HORNILLOS DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 549758.94, 4674679.53 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "ID": 179170.0, "NOMBRE": "261261101- CAPTACIÓN 1 DE ROBRES DEL CASTILLO" }, "geometry": { "type": "Point", "coordinates": [ 561594.86, 4679206.08 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "ID": 179171.0, "NOMBRE": "261261102- CAPTACIÓN 2 DE ROBRES DEL CASTILLO" }, "geometry": { "type": "Point", "coordinates": [ 561027.91, 4679379.97 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "ID": 179172.0, "NOMBRE": "260671101- CAPTACIÓN 1 DE GALLINERO DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 533997.97, 4668115.13 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "ID": 179173.0, "NOMBRE": "260671102- CAPTACIÓN 2 DE GALLINERO DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 532025.55, 4669244.57 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "ID": 179174.0, "NOMBRE": "261691101- CAPTACIÓN DE ALDEANUEVA DE CAMEROS (VILLANUEVA DE CAMEROS)" }, "geometry": { "type": "Point", "coordinates": [ 531554.05, 4665696.5 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "ID": 179175.0, "NOMBRE": "261531101- CAPTACIÓN DE TORRE EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 538572.4, 4677755.57 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "ID": 179176.0, "NOMBRE": "261011102- CAPTACIÓN II DE MURO EN CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 537214.74, 4675847.78 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "ID": 179177.0, "NOMBRE": "260351101- CAPTACIÓN DE CABEZÓN DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 539258.76, 4670956.66 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "ID": 179178.0, "NOMBRE": "260811101- CAPTACIÓN I JALÓN DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 539489.23, 4673331.57 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "ID": 179179.0, "NOMBRE": "260811102- CAPTACIÓN II JALÓN DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 539716.6, 4673270.35 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "ID": 179180.0, "NOMBRE": "260613101- CAPTACIÓN DE POSADAS (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 496088.14, 4677014.54 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "ID": 179181.0, "NOMBRE": "260614101- CAPTACIÓN DE SAN ANTÓN (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 496404.03, 4679693.6 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "ID": 179182.0, "NOMBRE": "260611102- CAPTACIÓN 2 DE AZÁRRULLA (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 497843.09, 4679052.79 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "ID": 179183.0, "NOMBRE": "261001101- CAPTACIÓN DE MURO DE AGUAS" }, "geometry": { "type": "Point", "coordinates": [ 573528.65, 4664987.65 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "ID": 179185.0, "NOMBRE": "261743101- CAPTACIÓN DE VILLARTE-QUINTANA (FUENTE EL AVELLANO)" }, "geometry": { "type": "Point", "coordinates": [ 495445.18, 4694200.52 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "ID": 179186.0, "NOMBRE": "261742101-CAPTACIÓN DE QUINTANAR DE RIOJA" }, "geometry": { "type": "Point", "coordinates": [ 491757.19, 4693455.17 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "ID": 179187.0, "NOMBRE": "261742102- CAPTACIÓN II DE QUINTANAR DE RIOJA" }, "geometry": { "type": "Point", "coordinates": [ 491843.9, 4693525.57 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "ID": 179188.0, "NOMBRE": "260441101- CAPTACIÓN DE CASTROVIEJO" }, "geometry": { "type": "Point", "coordinates": [ 528560.19, 4685368.29 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "ID": 179189.0, "NOMBRE": "260301101- CAPTACIÓN CARRONDA BEZARES" }, "geometry": { "type": "Point", "coordinates": [ 527691.1, 4690951.84 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "ID": 179190.0, "NOMBRE": "260161101- CAPTACIÓN EXTRAORDINARIA ARENZANA DE ARRIBA" }, "geometry": { "type": "Point", "coordinates": [ 526528.22, 4689516.58 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "ID": 179191.0, "NOMBRE": "260931101- CAPTACIÓN DE MANSILLA" }, "geometry": { "type": "Point", "coordinates": [ 504063.24, 4668031.04 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "ID": 179192.0, "NOMBRE": "261791101- CAPTACIÓN DE VINIEGRA DE ARRIBA" }, "geometry": { "type": "Point", "coordinates": [ 513553.2, 4660212.05 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "ID": 179193.0, "NOMBRE": "261831101- CAPTACIÓN DE ZORRAQUÍN" }, "geometry": { "type": "Point", "coordinates": [ 496346.23, 4684061.76 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "ID": 179195.0, "NOMBRE": "261811101- CAPTACIÓN 1 DE ZARZOSA" }, "geometry": { "type": "Point", "coordinates": [ 553368.68, 4670945.72 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "ID": 179196.0, "NOMBRE": "261811102- CAPTACIÓN 2 DE ZARZOSA" }, "geometry": { "type": "Point", "coordinates": [ 553843.78, 4670708.27 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "ID": 179197.0, "NOMBRE": "261811103- CAPTACIÓN 3 DE ZARZOSA" }, "geometry": { "type": "Point", "coordinates": [ 552544.38, 4668563.17 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "ID": 179198.0, "NOMBRE": "260042101- CAPTACIÓN FUENTE GRANDE (AJAMIL)" }, "geometry": { "type": "Point", "coordinates": [ 551585.19, 4669543.08 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "ID": 179199.0, "NOMBRE": "260616101- CAPTACIÓN 1 DE ZALDIERNA (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 498665.39, 4680633.67 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "ID": 179200.0, "NOMBRE": "260616102- CAPTACIÓN 2 DE ZALDIERNA (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 498692.87, 4681069.47 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "ID": 179201.0, "NOMBRE": "261131101- CAPTACIÓN 1 DE PAZUENGOS" }, "geometry": { "type": "Point", "coordinates": [ 504493.87, 4681361.05 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "ID": 179202.0, "NOMBRE": "261131102- CAPTACIÓN 2 DE PAZUENGOS" }, "geometry": { "type": "Point", "coordinates": [ 504396.5, 4682017.51 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "ID": 179203.0, "NOMBRE": "260391101- CAPTACIÓN DE CANILLAS DE RÍO TUERTO" }, "geometry": { "type": "Point", "coordinates": [ 510997.36, 4692880.17 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "ID": 179204.0, "NOMBRE": "260861101- CAPTACIÓN I LEDESMA DE LA COGOLLA" }, "geometry": { "type": "Point", "coordinates": [ 525435.4, 4685135.06 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "ID": 179205.0, "NOMBRE": "260861102. CAPTACIÓN II DE LEDESMA DE LA COGOLLA" }, "geometry": { "type": "Point", "coordinates": [ 523468.73, 4685257.07 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "ID": 179206.0, "NOMBRE": "260982101- CAPTACIÓN I DE PEROBLASCO (MUNILLA)" }, "geometry": { "type": "Point", "coordinates": [ 561332.65, 4671387.55 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "ID": 179207.0, "NOMBRE": "260982102- CAPTACIÓN II DE PEROBLASCO (MUNILLA)" }, "geometry": { "type": "Point", "coordinates": [ 561143.39, 4671568.84 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "ID": 179208.0, "NOMBRE": "260582101- CAPTACIÓN NAVALSAZ (ENCISO)" }, "geometry": { "type": "Point", "coordinates": [ 564331.18, 4662011.28 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "ID": 179209.0, "NOMBRE": "261061101- CAPTACIÓN CUESTA DE LA CASA-NESTARES" }, "geometry": { "type": "Point", "coordinates": [ 530346.75, 4681617.53 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "ID": 179210.0, "NOMBRE": "260961101- CAPTACIÓN DE MEDRANO" }, "geometry": { "type": "Point", "coordinates": [ 535001.33, 4689053.8 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "ID": 179211.0, "NOMBRE": "260571101- CAPTACIÓN DE DAROCA" }, "geometry": { "type": "Point", "coordinates": [ 533698.07, 4688499.36 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "ID": 179212.0, "NOMBRE": "260571102- CAPTACIÓN EXTRAORDINARIA DAROCA" }, "geometry": { "type": "Point", "coordinates": [ 534229.45, 4689701.11 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "ID": 179213.0, "NOMBRE": "261541101- CAPTACIÓN DE TORREMONTALBO (POZO)" }, "geometry": { "type": "Point", "coordinates": [ 525501.3, 4705325.37 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "ID": 179214.0, "NOMBRE": "260542101- CAPTACIÓN VALDEPERILLOS (CORNAGO)" }, "geometry": { "type": "Point", "coordinates": [ 573172.42, 4658433.12 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "ID": 179215.0, "NOMBRE": "260041102- CAPTACIÓN LAS SUDANTES II (AJAMIL)" }, "geometry": { "type": "Point", "coordinates": [ 543517.12, 4666528.42 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "ID": 179216.0, "NOMBRE": "261072101- CAPTACIÓN OYANCO NIEVA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 524988.14, 4675957.77 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "ID": 179217.0, "NOMBRE": "261072102- CAPTACIÓN OYANCO DE ABAJO NIEVA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 524918.75, 4675551.93 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "ID": 179218.0, "NOMBRE": "261072103- CAPTACIÓN DEL RÍO CASTEJÓN NIEVA DE CAMEROS" }, "geometry": { "type": "Point", "coordinates": [ 524451.93, 4675350.07 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "ID": 179219.0, "NOMBRE": "261751102- CAPTACIÓN 2 DE VILLAVELAYO (RODAJO 2)" }, "geometry": { "type": "Point", "coordinates": [ 499943.14, 4664177.04 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "ID": 179220.0, "NOMBRE": "260611101- CAPTACIÓN 1 DE AZÁRRULLA (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 498219.67, 4679158.42 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "ID": 179221.0, "NOMBRE": "260615101- CAPTACIÓN DE URDANTA (EZCARAY)" }, "geometry": { "type": "Point", "coordinates": [ 501694.92, 4679375.23 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "ID": 1141603.0, "NOMBRE": "CAPTACIÓN SUBSISTEMA YALDE" }, "geometry": { "type": "Point", "coordinates": [ 527833.67, 4687802.48 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "ID": 1141604.0, "NOMBRE": "CAPTACIÓN SUBSISTEMA OCÓN (BALSA)" }, "geometry": { "type": "Point", "coordinates": [ 565850.2, 4682402.6 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "ID": 1141605.0, "NOMBRE": "CAPTACIÓN SUBSISTEMA ALTO LEZA (BALSA DE REGULACIÓN)" }, "geometry": { "type": "Point", "coordinates": [ 537274.28, 4667194.94 ] } }
+
+]
+}
