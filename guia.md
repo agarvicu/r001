@@ -1,13 +1,20 @@
-﻿# GUÍA PARA EDITAR LA CARTOGRAFÍA COLABORATIVA DE IDERIOJA (GOBIERNO DE LA RIOJA.ESPAÑA)
+﻿### Guía para la edición colaborativa de la cartografía del Gobierno de La Rioja
 
-El proyecto que hemos bautizado como [Cartografía colaborativa], tiene como objetivo principal crear un espacio de trabajo en el que podáis participar de forma activa y desinteresada en la cartografía del Gobierno de La Rioja (España).
+El proyecto que hemos bautizado como *"Cartografía Colaborativa"*, tiene como objetivo principal crear un espacio de trabajo en el que podáis participar de forma activa y desinteresada junto con nosotros en la cartografía de nuestro territorio.
 
-Este tipo de colaboración geográfica se conoce también como "Crowd-Mapping".
+Este tipo de colaboración geográfica también se conoce como "Crowd-Mapping" y se aplica con éxito en muchos otros proyectos y países.
 
-Entre las múltiples plataformas de colaboración posibles, hemos elegido una solución *Git*, ya que nos parece la más interesante y operativa desde un punto de vista técnico.
+Si te gusta la información geográfica y tienes algún dato interesante que aportar a la comunidad...¡ANÍMATE!,¡saca el cartógrafo que llevas dentro y vamos a ello!.
 
-Si hasta ahora no conoces Git ¡estás de suerte!, ya que te ofrecemos la excusa perfecta para iniciarte en este `Sistema de Control de Versiones` que estamos seguros, antes o después, te resultará muy útil en multitud de apicaciones.
+#### 0 - Comenzando
 
-Así que si te animas... ¡saca el cartógrafo que llevas dentro y vamos a ello!
+Entre las múltiples plataformas de colaboración posibles para llevar a cabo este proyecto, hemos elegido una solución **Git**, ya que nos parece la más interesante y operativa desde un punto de vista técnico.
 
-## 0.- COMENZANDO
+Si hasta ahora no conoces Git, ¡ESTÁS DE SUERTE!, ya que te ofrecemos la excusa perfecta para iniciarte en este *Sistema de Control de Versiones* que, antes o después, estamos seguros te resultará muy útil en multitud de aplicaciones.
+
+redactando...
+
+
+[GitHub]: https://github.com/
+[Cartografía colaborativa]: Https://github.com/iderioja/cartografia_colaborativa
+[Git]: http://git-scm.com/
